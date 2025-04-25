@@ -1,0 +1,164 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Special Gothic Expanded One", sans-serif;
+}
+body{
+    background-color: #ffffff;
+    padding-left: 10;
+}
+header{
+    background-image: url("https://jbaimoveis.com.br/media/jbaimoveis/2019/02/melhores-bairros-de-curitiba-blog.jpg");
+    color: #ffffff;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 20px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+}  
+.header{
+    text-align: right;
+}
+#tabelacabeçalho{
+    justify-content: space-between;
+}
+#p{
+    text-align: left;
+    font-size: 20px;
+    color: #ffffff;
+    width: 80px;
+}
+#c{
+    text-align: left;
+    width: 80px;
+}
+#opções{
+    color: #ffffff;
+    font-size: 15px;
+    text-align: right;
+    padding: 10px 15px;
+}
+
+.lm{
+    color: #ffffff;
+    font-size: 15px;
+    text-align: center;
+    padding: 10px 15px;
+    text-decoration: none;
+    padding: 10px 20px; /* Espaçamento interno */
+    border-radius: 5px; /* Bordas arredondadas */
+}
+.lm:hover {
+    background-color: #ffffff; /* Cor de fundo ao passar o mouse */
+    color: #444444; /* Cor do texto ao passar o mouse */
+    transition: background-color 0.3s ease; /* Transição suave */
+}
+#hr1{
+    margin-right: 25px;
+}
+#ptc{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 20px;
+}
+
+nav img:hover{
+    transform: scale(1.05);
+    transition: transform 0.3s ease; /* Transição suave */
+}
+    
+.navbar{
+    text-decoration: none;
+    color: #DC6A58;
+    padding: 10px 20px; /* Espaçamento interno */
+    border-radius: 5px; /* Bordas arredondadas */
+}
+#tx1{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 15px;
+    text-align: left;
+}
+#cptc{
+    font-size: 20px;
+    background-color: #26690d;
+    color: #ffffff;
+    padding: 10px;
+    width: 700px;
+}
+.lugares{
+    background-color: #B8EDA5;
+    color: #ffffff;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    width: 900px;
+    font-family: "Borel", cursive;
+}
+
+
+nav{
+    text-align: center;
+    margin: auto;
+
+}
+nav img{
+    border-radius: 10px;
+    margin: 10px;
+    border: 2px solid #ffffff;
+}
+
+#tabelaconheçaptc{
+    text-align: center;
+}
+
+.ptcfotos{
+    text-decoration: none;
+    font-size: 30px;
+    color: #ffffff;
+    padding: 10px;
+    text-align: center;
+    
+}
+.ptcfotos:hover{
+    color: #1a5300; /* Cor do texto ao passar o mouse */
+    transition: background-color 0.3s ease-in-out; /* Transição suave */
+}
+th{
+    padding: 0;
+}
+.caixacptc{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+footer{
+    text-align: center;
+    background-color: #88b179;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    color: #ffffff;
+}
+.dcwb{
+    color: #DC6A58;
+}
+
+.rptcfotos{
+    text-decoration: none;
+    color: #ffffff;
+    padding: 10px;
+    
+}
+.rptcfotos:hover{
+    color: #1a5300; /* Cor do texto ao passar o mouse */
+    transition: background-color 0.3s ease-in-out; /* Transição suave */
+}

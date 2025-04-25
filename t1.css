@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Special Gothic Expanded One", sans-serif;
+}
+body{
+    background-color: #ffffff;
+    padding-left: 10;
+}
+header{
+    background-image: url("https://mid.curitiba.pr.gov.br/2021/00310996.jpg");
+    color: #ffffff;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 20px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+} 
+.wallpaper h1{
+    color: #ff0000;
+    font-size: 50px;
+    text-align: center;
+    text-decoration: none;
+} 
+.title{
+    text-align: center;
+}
+.pi{
+    text-align: center;
+}
+.bi{
+    color: #000000;
+    font-size: 15px;
+    text-align: center;
+    padding: 10px 15px;
+    text-decoration: none;
+    padding: 10px 20px; /* Espaçamento interno */
+    border-radius: 5px; /* Bordas arredondadas */
+
+}
+.bi:hover{
+    background-color: #000000; /* Cor de fundo ao passar o mouse */
+    color: #ffffff; /* Cor do texto ao passar o mouse */
+    transition: background-color 0.3s ease;
+}
+.ref{
+    color: #ffffff;
+    font-size: 15px;
+    text-align: center;
+    text-decoration: none;
+    padding: 10px 20px; /* Espaçamento interno */
+    border-radius: 5px; /* Bordas arredondadas */
+}
+.ref:hover{
+    background-color: #ffffff; /* Cor de fundo ao passar o mouse */
+    color: #000000; /* Cor do texto ao passar o mouse */
+    transition: background-color 0.3s ease;
+}
+.oqf{
+    width: 100%;
+
+}
+.oqfboxprincipal{
+    width: 100%;
+}
+#titleoqf{
+    text-align: center;
+    color: #ff0000
+}
+.bp1{
+    
+}
+.boxoqf1{
+    width: 30%;
+    text-align: left;
+}
+.bp2{
+    text-align: right;
+}
+.boxoqf2{
+    width: 30%;
+    text-align: right;
+}
+.sugestao{
+    display: inline;
+}
+footer{
+    text-align: left;
+    background-color: #88b179;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    color: #ffffff;
+}
